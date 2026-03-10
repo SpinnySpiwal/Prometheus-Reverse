@@ -1,0 +1,13 @@
+local part = Instance.new("Part")
+part.Name = "Part"
+part.Parent = game.Workspace
+part.Position = Vector3.new(0, 10, 0)
+part.Size = Vector3.new(1, 1, 1)
+part.Color = Color3.new(1, 0, 0)
+part.Transparency = 0.5
+part.Reflectance = 0.5
+part.Material = "Glass"
+part.Parent = game.Workspace
+part.Position = Vector3.new(0, 10, 0)
+part.Size = Vector3.new(1, 1, 1)
+part.Color = Color3.new(1, 0, 0)
